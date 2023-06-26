@@ -15,18 +15,19 @@ export default function Testimonials() {
             <div className="p-4 md:w-1/2 w-full">
               <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
                 <TerminalIcon className="block w-8 text-gray-500 mb-4" />
-                <p className="leading-relaxed mb-6">{testimonial.quote}</p>
+                <p className="leading-relaxed mb-6" key={testimonial.quote}>{testimonial.quote}</p>
                 <div className="inline-flex items-center">
                   <img
                     alt="testimonial"
                     src={testimonial.image}
+                    key={testimonial.image}
                     className="w-12 rounded-full flex-shrink-0 object-cover object-center"
                   />
                   <span className="flex-grow flex flex-col pl-4">
-                    <span className="title-font font-medium text-white">
+                    <span className="title-font font-medium text-white" key={testimonial.name}>
                       {testimonial.name}
                     </span>
-                    <span className="text-gray-500 text-sm uppercase">
+                    <span className="text-gray-500 text-sm uppercase" key={testimonial.company}>
                       {testimonial.company}
                     </span>
                   </span>
