@@ -6,6 +6,7 @@ export const projects = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-1.gif",
     link: "https://reactbootcamp.com",
+    id: 1,
   },
   {
     title: "React Tracks",
@@ -14,6 +15,7 @@ export const projects = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
     link: "https://reactbootcamp.com",
+    id: 2,
   },
   {
     title: "DevChat",
@@ -22,6 +24,7 @@ export const projects = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
     link: "https://reactbootcamp.com",
+    id: 3,
   },
   {
     title: "Epic Todo App",
@@ -30,6 +33,7 @@ export const projects = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
     link: "https://reactbootcamp.com",
+    id: 4,
   },
 ];
 
@@ -40,6 +44,7 @@ export const testimonials = [
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
     company: "Zoozle",
+    id: 1,
   },
   {
     quote:
@@ -47,6 +52,7 @@ export const testimonials = [
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Ruben Alvarez",
     company: "Dooble.io",
+    id: 2,
   },
 ];
 
