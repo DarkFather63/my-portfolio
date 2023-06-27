@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tranquil-brigadeiros-a336d4.netlify.app/",
+  "homepage": "https://tranquil-brigadeiros-a336d4.netlify.app/About",
   "dependencies": {
     "@babel/runtime": "^7.22.5",
     "@craco/craco": "^5.9.0",
