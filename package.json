@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
+    "netlify-cli": "^15.7.0",
     "postcss": "^7.0.36",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   }
