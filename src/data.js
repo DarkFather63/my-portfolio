@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "MERN Stack",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+    image: "./lotr1.png",
     link: "https://reactbootcamp.com",
     id: 1,
   },
@@ -13,7 +13,7 @@ export const projects = [
     subtitle: "React and Python",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+    image: "./markzuck1.jpeg",
     link: "https://reactbootcamp.com",
     id: 2,
   },
@@ -22,7 +22,7 @@ export const projects = [
     subtitle: "React and Firebase",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+    image: "./whelan1.jpeg",
     link: "https://reactbootcamp.com",
     id: 3,
   },
@@ -31,7 +31,7 @@ export const projects = [
     subtitle: "React Hooks",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+    image: "./frazetta1.png",
     link: "https://reactbootcamp.com",
     id: 4,
   },
@@ -57,10 +57,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Derek",
+  "Djinn",
+  "Ifrits/Goblins",
+  "Wizard",
+  "Dragon",
+  "Mechanism",
 ];
